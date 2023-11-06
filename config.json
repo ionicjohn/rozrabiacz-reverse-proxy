@@ -1,0 +1,5 @@
+{
+    "bind": "0.0.0.0:2138",
+    "useHttp": false,
+    "strona": "<domena stronki self hosted na której to działa>"
+}
